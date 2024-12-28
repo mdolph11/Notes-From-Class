@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+  }  
+ h1{
+    color: purple;
+    text-align: center
+  }
+ div{
+    background-color: green;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 5px;
+  }
+.shadow-text{
+    text-shadow: blue 3px;
+  }
+#large-paragraph{
+    font-size: '35px';
+  }
